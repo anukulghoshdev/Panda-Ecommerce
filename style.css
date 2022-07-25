@@ -1,0 +1,33 @@
+.carousel-slider{
+    margin-top:100px;
+}
+
+.carousel-item {
+    background-color: #FCEAE8;
+}
+
+.cat1 {
+    background-color: #FFA500;
+
+}
+
+.cat2 {
+    background-color: #DA70D6;
+}
+
+.cat3 {
+    background-color: #0000FF;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+}
+.subscribe{
+    background-color: #FCEAE8;
+}
